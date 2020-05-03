@@ -1,0 +1,5 @@
+#Join Message
+JoinMsg: §e{player} si è unito al server
+
+#Quit Message
+QuitMsg: §e{player} ha abbandonato il server
